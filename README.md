@@ -9,10 +9,11 @@
 ## Projects
 
 - **AWS S3 Static Website Hosting**: A project showcasing how to host a static website using Amazon S3. [Explore the project](https://github.com/dahrihadri/aws-s3-static-website)
+- **AWSxDevOps Project**: A project showcasing how to start creating a CI/CD pipeline to build and deploy a simple web application using AWS' Code services. [Explore the project](https://github.com/dahrihadri/AWSxDevOps)
 
 ## Technologies & Tools
 
-- AWS
+- AWS Services
 - Terraform
 - Docker
 - Kubernetes
