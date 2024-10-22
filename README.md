@@ -14,9 +14,9 @@
 
 - **AWS VPC and Load Balancer Setup**: A project demonstrating how to design a secure VPC architecture with public and private subnets, deploy EC2 instances, and use a Classic Load Balancer for high availability. This project highlights using NAT Gateway for internet connectivity in private subnets and setting up an Apache web server using EC2 user data. You can explore the project. [Explore the project](https://github.com/dahrihadri/Network-Topology-ALB)
 
-- **Super Mario on EKS using Terraform**: A project where I deployed the classic Super Mario game on Amazon EKS (Elastic Kubernetes Service) using Terraform and AWS EC2. It covers the setup of Docker, Terraform, AWS CLI, and Kubernetes. [Explore the project](https://github.com/dahrihadri/Super-Mario-on-EKS)
-
 - **AWS Multi-Tier Architecture Setup**: A project that implements a multi-tier architecture by setting up a VPC with public and private subnets in multiple availability zones, creating a Bastion host, and configuring secure connections between the web server, application server, and RDS database. The project demonstrates how to configure security groups and route tables to control traffic flow. Explore the project. [Explore the project](https://github.com/dahrihadri/AWS-Multi-Tier-Architecture-with-Custom-VPC)
+
+- **Super Mario on EKS using Terraform**: A project where I deployed the classic Super Mario game on Amazon EKS (Elastic Kubernetes Service) using Terraform and AWS EC2. It covers the setup of Docker, Terraform, AWS CLI, and Kubernetes. [Explore the project](https://github.com/dahrihadri/Super-Mario-on-EKS)
 
 
 ## Technologies & Tools
