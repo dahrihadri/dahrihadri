@@ -41,6 +41,9 @@
 - Terraform
 - Docker
 - Kubernetes
+- Grafana
+- Prometheus
+- Jenkins
 
 ## Let's Connect
 
