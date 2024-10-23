@@ -22,7 +22,8 @@
 > [Explore the project](https://github.com/dahrihadri/Network-Topology-ALB)
 
 4. **AWS Multi-Tier Architecture Setup**: 
-> A project that implements a multi-tier architecture by setting up a VPC with public and private subnets in multiple availability zones, creating a Bastion host, and configuring secure connections between the web > server, application server, and RDS database. The project demonstrates how to configure security groups and route tables to control traffic flow. Explore the project. 
+> A project that implements a multi-tier architecture by setting up a VPC with public and private subnets in multiple availability zones, creating a Bastion host, and configuring secure connections between the
+> webserver, application server, and RDS database. The project demonstrates how to configure security groups and route tables to control traffic flow. Explore the project. 
 > [Explore the project](https://github.com/dahrihadri/AWS-Multi-Tier-Architecture-with-Custom-VPC)
 
 5. **Super Mario on EKS using Terraform**: 
