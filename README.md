@@ -34,6 +34,11 @@
 > ChatGPT clone deployed on Kubernetes using Terraform and Jenkins CI/CD pipeline with a DevSecOps approach. Includes monitoring with Prometheus and Grafana. 
 > [Explore the project](https://github.com/dahrihadri/chatgpt-cloud-native-deployment)
 
+7. **Launch a Kubernetes Cluster**: 
+> In this project, I will deploy a Kubernetes cluster using AWS EKS because it demonstrates my ability to manage containerized applications and cloud infrastructure, essential skills for modern DevOps and cloud engineering roles. 
+> [Explore the project](https://github.com/dahrihadri/Launch-a-Kubernetes-Cluster)
+
+
 
 ## Technologies & Tools
 
